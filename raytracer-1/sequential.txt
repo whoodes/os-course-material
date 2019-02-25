@@ -1,0 +1,62 @@
+Script started on Sun Feb 24 13:02:46 2019
+[1m[7m%[27m[1m[0m                                                                                                                                ]2;admin@Wyatts-MBP: ~/Desktop/cs-332/raytracer]1;..332/raytracer[0m[27m[24m[J
+[1min [0m[1m[36mDesktop/cs-332/raytracer[0m[36m[39m[1m [0m
+[1m  [0m[1m[33m[0m[33m[39m[1m [0m[K[?1h=[?2004h[32mscript[39m [4msequential.txt[24m[21D[32mr[32mm[39m[39m [34m*[34m.[34mc[34ml[24m[34ma[24m[34ms[24m[34ms[39m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [11D[34mp[34mn[34mg[39m[39m [39m [8D[32mc[32ml[32me[32ma[32mr[39m[39m [39m [39m [32mj[32ma[32mv[32ma[39m[39m -cp .:raytracer.jar MakeMovieSequentialConcurrent 5[53D[32ma[32mc[39m -cp .:raytracer.jar [4mM[4ma[4mk[4me[4mM[4mo[4mv[4mi[4me[4mS[4me[4mq[4mu[4me[4mn[4mt[4mi[4ma[4ml[4mC[4mo[4mn[4mc[4mu[4mr[4mr[4me[4mn[4mt[4m.[4mjava[24m[?1l>[?2004l
+]2;javac -cp .:raytracer.jar MakeMovieSequentialConcurrent.java]1;javac[1m[7m%[27m[1m[0m                                                                                                                                ]2;admin@Wyatts-MBP: ~/Desktop/cs-332/raytracer]1;..332/raytracer[0m[27m[24m[J
+[1min [0m[1m[36mDesktop/cs-332/raytracer[0m[36m[39m[1m [0m
+[1m  [0m[1m[33m[0m[33m[39m[1m [0m[K[?1h=[?2004h[32mjavac[39m -cp .:raytracer.jar [4mMakeMovieSequentialConcurrent.java[24m[60D[32ms[32mc[32mr[32mi[32mp[32mt[39m [4ms[24m[28P[9C[4m.[4mt[4mx[4mt[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m                             [39D[21D[32mr[32mm[39m[39m [34m*[34m.[34mc[34ml[24m[34ma[24m[34ms[24m[34ms[39m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [11D[34mp[34mn[34mg[39m[39m [39m [8D[32mc[32ml[32me[32ma[32mr[39m[39m [39m [39m [32mj[32ma[32mv[32ma[39m[39m -cp .:raytracer.jar MakeMovieSequentialConcurrent 5 48[?1l>[?2004l
+]2;java -cp .:raytracer.jar MakeMovieSequentialConcurrent 48]1;java[1] Rendering frame #0
+[1] Rendering frame #1
+[1] Rendering frame #2
+[1] Rendering frame #3
+[1] Rendering frame #4
+[1] Rendering frame #5
+[1] Rendering frame #6
+[1] Rendering frame #7
+[1] Rendering frame #8
+[1] Rendering frame #9
+[1] Rendering frame #10
+[1] Rendering frame #11
+[1] Rendering frame #12
+[1] Rendering frame #13
+[1] Rendering frame #14
+[1] Rendering frame #15
+[1] Rendering frame #16
+[1] Rendering frame #17
+[1] Rendering frame #18
+[1] Rendering frame #19
+[1] Rendering frame #20
+[1] Rendering frame #21
+[1] Rendering frame #22
+[1] Rendering frame #23
+[1] Rendering frame #24
+[1] Rendering frame #25
+[1] Rendering frame #26
+[1] Rendering frame #27
+[1] Rendering frame #28
+[1] Rendering frame #29
+[1] Rendering frame #30
+[1] Rendering frame #31
+[1] Rendering frame #32
+[1] Rendering frame #33
+[1] Rendering frame #34
+[1] Rendering frame #35
+[1] Rendering frame #36
+[1] Rendering frame #37
+[1] Rendering frame #38
+[1] Rendering frame #39
+[1] Rendering frame #40
+[1] Rendering frame #41
+[1] Rendering frame #42
+[1] Rendering frame #43
+[1] Rendering frame #44
+[1] Rendering frame #45
+[1] Rendering frame #46
+[1] Rendering frame #47
+
+Execution time: 56.388 seconds.
+[1m[7m%[27m[1m[0m                                                                                                                                ]2;admin@Wyatts-MBP: ~/Desktop/cs-332/raytracer]1;..332/raytracer[0m[27m[24m[J
+[1min [0m[1m[36mDesktop/cs-332/raytracer[0m[36m[39m[1m [0m[1mtook [0m[1m[33m56s[0m[33m[39m[1m [0m
+[1m  [0m[1m[33m[0m[33m[39m[1m [0m[K[?1h=[?2004h[1m[31me[0m[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exit
+Script done on Sun Feb 24 13:03:59 2019
